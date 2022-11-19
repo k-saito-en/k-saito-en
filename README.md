@@ -49,8 +49,9 @@
 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> flutter
 
-## サイト
-[ポートフォリオ作成中（後にこちらに紹介予定）](https://github.com/k-saito-en/portfolio-k-saito-hourTime)
+## ポートフォリオ
+
+coming soon...
 
 <!---
 k-saito-en/k-saito-en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
