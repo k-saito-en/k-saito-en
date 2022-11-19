@@ -16,8 +16,9 @@
 - 合同会社ミルディア　インターン生
 
 # 興味分野
-- バックエンドエンジニア
-- flutter（アプリケーションエンジニア）
+- アプリケーションエンジニア
+- swift
+- flutter
 
 # サイト
 [ポートフォリオ作成中（後にこちらに紹介予定）](https://github.com/k-saito-en/portfolio-k-saito-hourTime)
