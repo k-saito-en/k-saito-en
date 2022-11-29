@@ -6,7 +6,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-saito-en&theme=github_dark&show_icons=true&exclude_repo=portfolio-k-saito-hourTime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=k_saito_en&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=k_saito_en&layout=wide)](https://twitter.com/k_saito_en)
 
 ## プロフィール
 
