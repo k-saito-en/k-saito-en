@@ -60,8 +60,9 @@ coming soon...
   
 ### 株式会社リフレイズ様　シフト管理アプリ　開発中
   
+{{< rawhtml >}}<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/k_saito_en?ref_src=twsrc%5Etfw">Tweets by k_saito_en</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>{{< /rawhtml >}}
 
-[](<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/k_saito_en?ref_src=twsrc%5Etfw">Tweets by k_saito_en</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
+![](<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/k_saito_en?ref_src=twsrc%5Etfw">Tweets by k_saito_en</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 <!---
 k-saito-en/k-saito-en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
