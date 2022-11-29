@@ -1,5 +1,7 @@
 ![IMG_4768](https://user-images.githubusercontent.com/111550856/201825555-9c130657-0ce3-4474-8e5b-5c458150cc5e.jpg)
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=k_saito_en)](https://github.com/gazf/github-readme-twitter)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-saito-en&theme=github_dark)
 
@@ -59,6 +61,7 @@ coming soon...
 ### 株式会社リフレイズ様　シフト管理アプリ　開発中
   
 
+[](<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/k_saito_en?ref_src=twsrc%5Etfw">Tweets by k_saito_en</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 <!---
 k-saito-en/k-saito-en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
