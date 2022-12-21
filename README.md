@@ -60,7 +60,7 @@
 
 ## ポートフォリオ
 
-[nginner-note](https://github.com/k-saito-en/enginner-note)
+[enginner-note](https://github.com/k-saito-en/enginner-note)
 
 ## 実績
   
