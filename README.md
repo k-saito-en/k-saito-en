@@ -60,7 +60,7 @@
 
 ## ポートフォリオ
 
-coming soon...
+[nginner-note](https://github.com/k-saito-en/enginner-note)
 
 ## 実績
   
