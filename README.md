@@ -58,11 +58,8 @@
 
 ## ポートフォリオ
 
-[enginner-note](https://github.com/k-saito-en/enginner-note)
+[enginner-note-app](https://github.com/k-saito-en/engineer-study-app)
 
-## 実績
-  
-### 株式会社リフレイズ様　在庫管理アプリ　開発中
   
 
 <!---
