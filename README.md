@@ -58,7 +58,7 @@
 
 ## ポートフォリオ
 
-[enginner-note-app](https://github.com/k-saito-en/engineer-study-app)
+[enginner-note-app](https://github.com/k-saito-en/engineer-study-app) 作成中
 
   
 
