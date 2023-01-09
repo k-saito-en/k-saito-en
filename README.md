@@ -44,9 +44,10 @@
 ## 現在
 
 - flutter大学
-- 個人開発 flutter MDメモアプリ　開発中
-- チーム開発 資格プラットフォーム　開発中
-- チーム開発 geoflutterfire_puls (OSSの改修)　開発中
+- flutter　個人開発 MDメモアプリ　開発中
+- iOS 個人開発 PDCAアプリ（仮） 開発中
+- flutter　チーム開発 資格プラットフォーム　開発中
+- flutter　チーム開発 geoflutterfire_puls (OSSの改修)　開発中
 
 ## 興味分野
 ### 学習中
