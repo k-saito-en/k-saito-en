@@ -56,7 +56,9 @@
 
 ## ポートフォリオ
 
-[enginner-note-app](https://github.com/k-saito-en/engineer-study-app) 作成中
+flutter [enginner-note-app](https://github.com/k-saito-en/engineer-study-app)　開発中
+
+iOS [1dayPDCA_APP](https://github.com/k-saito-en/1dayPDCA_APP)　開発中
 
   
 
