@@ -1,13 +1,9 @@
 ![IMG_4768](https://user-images.githubusercontent.com/111550856/201825555-9c130657-0ce3-4474-8e5b-5c458150cc5e.jpg)
 
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k-saito-en&theme=github_dark)
 
-
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-saito-en&theme=github_dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-saito-en&theme=github_dark&show_icons=true&exclude_repo=portfolio-k-saito-hourTime&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-saito-en&theme=github_dark)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=k_saito_en&layout=wide)](https://twitter.com/k_saito_en)
 
