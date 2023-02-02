@@ -24,6 +24,7 @@ Zenn ブログ　→ https://zenn.dev/k_saito_en
 ### 現在執筆中の記事
 
 [✏️ 【GAS】スプレッドシートからJSONファイルを出力してみた話 ✏️](https://zenn.dev/k_saito_en/articles/7bf03f16a63fe8)
+▶︎ チーム開発中の経験で「これおもしろい！便利！」と感じた`GAS`についてまとめ中です
 
 
 
