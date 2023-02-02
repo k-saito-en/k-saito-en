@@ -19,7 +19,7 @@
 
 ## 技術ブログ
 
-Zenn ブログ　→ https://zenn.dev/k_saito_en
+Zenn ブログ　https://zenn.dev/k_saito_en
 
 ### 現在執筆中の記事
 
