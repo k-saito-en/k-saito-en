@@ -53,7 +53,7 @@ Zenn ブログ　https://zenn.dev/k_saito_en
 
 - flutter大学
 - flutter　個人開発 MDメモアプリ　開発中
-- iOS 個人開発 歌メモアプリ 開発中
+- iOS 個人開発 1weekPDCA 開発中
 - iOS 独学中
 - flutter　チーム開発 資格プラットフォーム　開発中
 - flutter　チーム開発 geoflutterfire_puls (OSSの改修)　開発中
