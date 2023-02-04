@@ -21,9 +21,9 @@
 
 Zenn ブログ　https://zenn.dev/k_saito_en
 
-### 執筆した記事
+### おすすめ記事
 
-[✏️【GAS】詳解!スプレッドシートからJSONを出力した話✏️](https://zenn.dev/k_saito_en/articles/7bf03f16a63fe8)
+- [✏️【GAS】詳解!スプレッドシートからJSONを出力した話✏️](https://zenn.dev/k_saito_en/articles/7bf03f16a63fe8)
 
 ▶︎ チーム開発中の経験で「これおもしろい！便利！」と感じた`GAS`についてまとめ中です
 
