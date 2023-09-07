@@ -5,7 +5,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k-saito-en&theme=github_dark)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=k_saito_en&layout=wide)](https://twitter.com/k_saito_en)
 
 
  
